@@ -9,10 +9,10 @@ have come from researchers across many disciplines. Without a
 common language, it can be difficult to see the commonalities across network
 architectures.
 
-Both textbooks contain detailed examples, numerous solved problems and comprehensive demonstration 
+Both textbooks contain detailed examples, many solved problems and comprehensive demonstration 
 software. In addition, the books' straightforward organization -- with each chapter divided into the 
 following sections: Objectives, Theory and Examples, Summary of Results, Solved Problems, Epilogue, 
-Further Reading, and Exercises -- makes it an excellent tool for independent learning and continued reference.
+Further Reading, and Exercises -- makes them excellent tools for independent learning and continued reference.
 
 This site contains a folder for each chapter of each book. Each folder has a Docs subfolder 
 containing PDF files of the chapter and associated slides. For chapters covering code, there is a 
