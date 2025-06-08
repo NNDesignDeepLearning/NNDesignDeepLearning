@@ -1,4 +1,4 @@
-# Neural Network Design
+# Neural Network Design Series
 
 The Neural Network Design series consists of two textbooks on neural networks. 
 The first covers fundamental concepts, and the second emphasizes topics focused on deep networks. 
