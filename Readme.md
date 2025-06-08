@@ -53,6 +53,8 @@ case studies.
 
 Readability and natural flow of material is emphasized throughout the text.
 
+A hard copy of this text can be ordered from [Amazon](https://www.amazon.com/Neural-Network-Design-Martin-Hagan/dp/0971732116).
+
 </td>
 <td width="50%" valign="top">
 <img src="NNDesignDeepLearning/FrontCoverSmall.jpg" alt="FrontCoverSmall.jpg">
